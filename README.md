@@ -307,4 +307,4 @@ telnet 192.168.0.1   ❌ Refused (SSH only — as expected!)
 
 ## 🗺️ Network Topology
 
-![Network topology](topology.png)
+![Network topology](Topology.png)

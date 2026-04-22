@@ -303,3 +303,8 @@ telnet 192.168.0.1   ❌ Refused (SSH only — as expected!)
 - **Password:** cisco
 
 > ⚠️ Note: Default password is `cisco` for all devices as per lab instructions.
+
+
+## 🗺️ Network Topology
+
+![Network topology](images/topology.png)
